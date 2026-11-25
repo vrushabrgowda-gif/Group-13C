@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield India",
+  "description": "Think Before You Click. Stay Safe Online. An interactive cybersecurity awareness Android app covering phishing, digital arrest scams, malicious apps, safety quizzes, and Indian cybercrime reporting resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
